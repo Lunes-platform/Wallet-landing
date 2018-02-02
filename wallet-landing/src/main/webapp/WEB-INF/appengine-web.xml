@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+  <application>lunes-platform</application><!-- unused for Cloud SDK based tooling -->
+  <module>wallet-landing</module>
+  <version>std</version><!-- unused for Cloud SDK based tooling -->
+ <threadsafe>true</threadsafe>
+  <instance-class>F1</instance-class>
+  <automatic-scaling>
+    <min-idle-instances>0</min-idle-instances>
+    <!-- ‘automatic’ is the default value. -->
+    <max-idle-instances>1</max-idle-instances>
+    <!-- ‘automatic’ is the default value. -->
+    <min-pending-latency>30ms</min-pending-latency>
+    <max-pending-latency>automatic</max-pending-latency>
+    <max-concurrent-requests>50</max-concurrent-requests>
+  </automatic-scaling>
+  <runtime>java8</runtime>
+</appengine-web-app>

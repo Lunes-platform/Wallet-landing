@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_graph_v1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="46.1538462" height="46.1538462"></rect>
+    </defs>
+    <g id="Wallet-Lunes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-832.000000, -1292.000000)">
+        <g id="ic_graph_v1" transform="translate(831.923077, 1291.923077)">
+            <g id="Rectangle-6" opacity="0">
+                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#FFFFFF" stroke-width="3.168" x="1.584" y="1.584" width="42.9858462" height="42.9858462"></rect>
+            </g>
+            <path d="M2.88461538,2.88461538 L2.88461538,43.2692308" id="Line" stroke="#FFFFFF" stroke-width="4.752" stroke-linecap="round"></path>
+            <path d="M2.88461538,43.2692308 L43.2692308,43.2692308" id="Line" stroke="#FFFFFF" stroke-width="4.752" stroke-linecap="round"></path>
+            <polyline id="Path-4" stroke="#FFFFFF" stroke-width="4.752" stroke-linecap="round" stroke-linejoin="round" points="8.65384615 34.6153846 17.6106372 19.6169685 24.3720632 30.0259382 33.4439928 8.65384615 40.3846154 23.7114385"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="181px" height="180px" viewBox="0 0 181 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>D151F63C-4A9A-4320-93BD-9270C3F686AE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.996961,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#9E87D1" offset="0%"></stop>
+            <stop stop-color="#654FA4" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="180.548628" height="180" rx="40.5"></rect>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="38.0435222%" id="linearGradient-4">
+            <stop stop-color="#0016FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4CD566" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-18.4224541,105.770161 L-9.81486661,160.484048 C-9.81486661,160.484048 -8.09370944,107.230435 9.37789749,109.842045 C26.8495044,112.453655 22.0387052,107.379322 39.1238097,100.805928 C53.904531,97.6193924 61.8763727,125.001781 75.5217306,122.847417 C90.0239173,120.557774 85.1452465,84.8131545 115.570707,86.1000093 C121.360881,85.3640535 131.724493,90.4668003 143.523258,90.2725989 C155.627555,90.0733686 149.442949,70.4307712 160.229601,63.1542445 C164.631247,60.184955 176.04831,59.593853 182.233613,54.0598077" id="path-5"></path>
+        <filter x="-12.6%" y="-18.2%" width="125.3%" height="147.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1.35" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1.35" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.051605017   0 0 0 0 0.0122048797   0 0 0 0 0.0122048797  0 0 0 0.51709692 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Wallet-Lunes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-315.000000, -240.000000)">
+        <g id="WWDC-Icon" transform="translate(315.000000, 240.000000)">
+            <g id="Line-+-Line-Copy-+-Line-Copy-2-+-Line-Copy-3-Mask" transform="translate(0.451372, 0.000000)">
+                <g id="1">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+                    <path d="M-14.4438903,139.857059 C-14.4438903,139.857059 -2.13609746,104.728248 16.8672062,110.428969 C22.2174256,112.033959 24.2831553,108.743255 27.4208049,107.658854 C35.4276905,104.891599 39.1713514,99.3351324 39.1713514,99.3351324 L47.5727216,102.90268 L54.5553833,107.658853 L62.1521553,116.24337 L66.3087722,120.797259 L73.2288856,124.19763 L81.6657946,121.111551 L93.2926655,98.6881591 L101.381294,88.1710817 L120.36896,84.9011082 L143.591427,91.2922681 L150.542815,84.9011082 L155.785497,69.2767869 L161.962139,61.566604 L174.852769,59.0221767 L189.497594,43.993004 L195.311741,27.5144104 L199.054863,5.85 L199.054863,211.5 L-14.1394362,211.5 L-14.4438903,139.857059 Z" id="2" fill="url(#linearGradient-4)" opacity="0.625408116" style="mix-blend-mode: lighten;" mask="url(#mask-3)"></path>
+                    <g mask="url(#mask-3)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use stroke="#4CD566" stroke-width="2.7" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+            <path d="M0.218756969,99.45 L180.322943,99.45" id="6" stroke="#4CD566" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="1.8,3.15"></path>
+            <path d="M1.5798005,36.9 L180.322943,36.9" id="6-copy" stroke="#4CD566" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="1.8,3.15"></path>
+            <ellipse id="Oval" fill="#FFFFFF" cx="8.57605985" cy="108.9" rx="3.159601" ry="3.15"></ellipse>
+            <ellipse id="Oval-Copy" fill="#FFFFFF" cx="42.8802993" cy="99.9" rx="3.159601" ry="3.15"></ellipse>
+            <ellipse id="Oval-Copy-2" fill="#FFFFFF" cx="113.745636" cy="86.85" rx="3.159601" ry="3.15"></ellipse>
+            <ellipse id="Oval-Copy-3" fill="#FFFFFF" cx="162.042394" cy="63" rx="3.159601" ry="3.15"></ellipse>
+        </g>
+    </g>
+</svg>

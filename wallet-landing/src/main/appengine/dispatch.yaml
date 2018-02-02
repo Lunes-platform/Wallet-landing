@@ -1,0 +1,5 @@
+dispatch:
+
+  # Wallet landing service serves simple hostname request.
+  - url: "wallet.lunes.io/*"
+    service: wallet-landing
